@@ -4,6 +4,9 @@ extern crate tantivy;
 // #[experimental]
 // extern crate zstd;
 
+use std::fs;
+use std::io::prelude::*;
+use std::io::{BufReader, Cursor};
 use tantivy::collector::TopDocs;
 use tantivy::directory::MmapDirectory;
 use tantivy::query::QueryParser;
@@ -11,9 +14,6 @@ use tantivy::schema::*;
 use tantivy::Index;
 use tantivy::ReloadPolicy;
 use zstd::Decoder;
-use std::fs;
-use std::io::prelude::*;
-use std::io::{BufReader, Cursor};
 
 fn warctest() {
     let f = fs::File::open("c:\\temp\\test.warc.zst").expect("file not found");
@@ -29,21 +29,39 @@ fn warctest() {
     println!("dict size = {}", dictsize);
 
     let mut dictbuf = vec![0u8; dictsize as usize];
-    let err = r.read_exact(&mut dictbuf).expect("could not read dictionary");
+    let err = r
+        .read_exact(&mut dictbuf)
+        .expect("could not read dictionary");
 
-    let is_normal_dict = dictbuf[0] == 0x37 && dictbuf[1] == 0xA4 && dictbuf[2] == 0x30 && dictbuf[3] == 0xEC;
-    let is_comp_dict = dictbuf[0] == 0x28 && dictbuf[1] == 0xB5 && dictbuf[2] == 0x2F && dictbuf[3] == 0xFD;
+    let is_normal_dict =
+        dictbuf[0] == 0x37 && dictbuf[1] == 0xA4 && dictbuf[2] == 0x30 && dictbuf[3] == 0xEC;
+    let is_comp_dict =
+        dictbuf[0] == 0x28 && dictbuf[1] == 0xB5 && dictbuf[2] == 0x2F && dictbuf[3] == 0xFD;
 
-    println!("normal dict: {}, comp dict: {}", is_normal_dict, is_comp_dict);
+    println!(
+        "normal dict: {}, comp dict: {}",
+        is_normal_dict, is_comp_dict
+    );
     if is_comp_dict {
-        println!("decompressing dict.. compressed dict len = {}", dictbuf.len());
+        println!(
+            "decompressing dict.. compressed dict len = {}",
+            dictbuf.len()
+        );
         // let's decompress the dictionary first.
         let dictreader = Cursor::new(dictbuf.clone());
         dictbuf.clear();
         let mut dictdecomp = zstd::Decoder::new(dictreader).expect("unable to decompress dict");
-        dictdecomp.read_to_end(&mut dictbuf).expect("failed to write decompressed dictionary");
-        println!("decompressing dict.. decompressed dict len = {}", dictbuf.len());
-        println!("dictmagic={:#x} {:#x} {:#x} {:#x}", dictbuf[0],dictbuf[1],dictbuf[2],dictbuf[3]); // should [93, 42, 77, 24], magic header
+        dictdecomp
+            .read_to_end(&mut dictbuf)
+            .expect("failed to write decompressed dictionary");
+        println!(
+            "decompressing dict.. decompressed dict len = {}",
+            dictbuf.len()
+        );
+        println!(
+            "dictmagic={:#x} {:#x} {:#x} {:#x}",
+            dictbuf[0], dictbuf[1], dictbuf[2], dictbuf[3]
+        ); // should [93, 42, 77, 24], magic header
     }
 
     r.rewind().expect("could not rewind file");
@@ -51,9 +69,9 @@ fn warctest() {
 
     // br.include_magicbytes(false).expect("could not disable including magic bytes?");
     // HOW DO I GET THIS TO WORK? EXPERIMENTAL: br.include_magic_bytes(false);
-    let mut jsonbuf = vec!(0u8; 100000);
+    let mut jsonbuf = vec![0u8; 100000];
     let err = br.read_exact(&mut jsonbuf).expect("could not read data");
-    println!("got it: {} bytes read from stream", jsonbuf.len() )
+    println!("got it: {} bytes read from stream", jsonbuf.len())
 }
 
 fn main() -> tantivy::Result<()> {
