@@ -1,8 +1,5 @@
 #[macro_use]
 extern crate tantivy;
-//
-// #[experimental]
-// extern crate zstd;
 
 use std::fs;
 use std::io::prelude::*;
@@ -13,7 +10,7 @@ use tantivy::query::QueryParser;
 use tantivy::schema::*;
 use tantivy::Index;
 use tantivy::ReloadPolicy;
-use zstd::Decoder;
+use warc::WarcReader;
 
 fn warctest() {
     let f = fs::File::open("c:\\temp\\test.warc.zst").expect("file not found");
@@ -65,11 +62,44 @@ fn warctest() {
     r.rewind().expect("could not rewind file");
     let mut br = zstd::Decoder::with_dictionary(r, &dictbuf).expect("failed to construct decoder");
 
-    // br.include_magicbytes(false).expect("could not disable including magic bytes?");
-    // HOW DO I GET THIS TO WORK? EXPERIMENTAL: br.include_magic_bytes(false);
-    let mut jsonbuf = vec![0u8; 100000];
-    let err = br.read_exact(&mut jsonbuf).expect("could not read data");
-    println!("got it: {} bytes read from stream", jsonbuf.len())
+    let mut wr = WarcReader::new(BufReader::new(br));
+
+    let mut strm = wr.stream_records();
+    for n in 0..10 {
+        println!("going to pick up an item from the stream of warc records...");
+        {
+            let record = strm
+                .next_item()
+                .unwrap()
+                .unwrap()
+                .into_buffered()
+                .unwrap();
+            println!("record id: {}", record.warc_id());
+            println!("warc version: {}", record.warc_version());
+            let q = record.body();
+            println!("body: {:?}", q);
+        }
+        //
+        // let item = strm.next_item();
+        // println!("got an item, checking if it is nice");
+        // match item {
+        //     None => {
+        //         println!("we got nothing. oh no!");
+        //         break
+        //     },
+        //     Some(Ok(x)) => {
+        //         println!("{}",x.warc_id());
+        //     }
+        //     Some(Err(_)) => {
+        //         println!("terrible things happened");
+        //         break
+        //     }
+        // }
+    }
+
+    // let mut jsonbuf = vec![0u8; 100000];
+    // let err = br.read_exact(&mut jsonbuf).expect("could not read data");
+    // println!("got it: {} bytes read from stream", jsonbuf.len())
 }
 
 fn main() -> tantivy::Result<()> {
