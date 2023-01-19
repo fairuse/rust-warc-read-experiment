@@ -20,18 +20,16 @@ fn warctest() {
     let mut r = BufReader::new(f);
 
     let mut buf = [0u8; 4];
-    let err = r.read_exact(&mut buf);
+    r.read_exact(&mut buf).expect("unable to read file header");
     // let i = i32::from_le_bytes(buf); // .try_into().unwrap() );
     println!("magic={:?}", buf); // should [93, 42, 77, 24], magic header
 
-    let err = r.read_exact(&mut buf).expect("could not read header");
+    r.read_exact(&mut buf).expect("could not read header");
     let dictsize = i32::from_le_bytes(buf); // .try_into().unwrap() );
     println!("dict size = {}", dictsize);
 
     let mut dictbuf = vec![0u8; dictsize as usize];
-    let err = r
-        .read_exact(&mut dictbuf)
-        .expect("could not read dictionary");
+    r.read_exact(&mut dictbuf).expect("could not read dictionary");
 
     let is_normal_dict =
         dictbuf[0] == 0x37 && dictbuf[1] == 0xA4 && dictbuf[2] == 0x30 && dictbuf[3] == 0xEC;
