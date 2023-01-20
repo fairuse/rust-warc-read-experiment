@@ -1,6 +1,12 @@
 #[macro_use]
 extern crate tantivy;
 
+/* this is very rough code. It is an experiment to see if we can stream a warc archive, as stored by
+   archive.org ArchiveTeam, which contains web requests and responses. We want to decode all the responses,
+   run the relevant responses through an HTML parser, use XPath to extract relevant fields, and index these
+   into a full text index with tantivi.
+ */
+
 use std::fs;
 use std::io::prelude::*;
 use std::io::{BufReader, Cursor};
