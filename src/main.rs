@@ -11,9 +11,10 @@ use tantivy::schema::*;
 use tantivy::Index;
 use tantivy::ReloadPolicy;
 use warc::WarcReader;
+use warc::WarcHeader;
 
 fn warctest() {
-    let f = fs::File::open("c:\\temp\\test.warc.zst").expect("file not found");
+    let f = fs::File::open("c:\\temp\\telegram_20221103181246_61f581b9.1658771457.megawarc.warc.zst").expect("file not found");
     let mut r = BufReader::new(f);
 
     let mut buf = [0u8; 4];
@@ -64,42 +65,62 @@ fn warctest() {
 
     let mut wr = WarcReader::new(BufReader::new(br));
 
-    let mut strm = wr.stream_records();
-    for n in 0..10 {
-        println!("going to pick up an item from the stream of warc records...");
-        {
-            let record = strm
-                .next_item()
-                .unwrap()
-                .unwrap()
-                .into_buffered()
-                .unwrap();
-            println!("record id: {}", record.warc_id());
-            println!("warc version: {}", record.warc_version());
-            let q = record.body();
-            println!("body: {:?}", q);
+
+    let mut count = 0;
+    let mut skipped = 0;
+    let mut stream_iter = wr.stream_records();
+    while let Some(record) = stream_iter.next_item() {
+        let record = record.expect("read of headers ok");
+        count += 1;
+        match record.header(WarcHeader::TargetURI).map(|s| s.to_string()) {
+            _ => {
+                let buffered = record.into_buffered().expect("read of record ok");
+                println!(
+                    "Found record. Data:\n{}",
+                    String::from_utf8_lossy(buffered.body()).len()
+                );
+            }
         }
-        //
-        // let item = strm.next_item();
-        // println!("got an item, checking if it is nice");
-        // match item {
-        //     None => {
-        //         println!("we got nothing. oh no!");
-        //         break
-        //     },
-        //     Some(Ok(x)) => {
-        //         println!("{}",x.warc_id());
-        //     }
-        //     Some(Err(_)) => {
-        //         println!("terrible things happened");
-        //         break
-        //     }
-        // }
     }
 
-    // let mut jsonbuf = vec![0u8; 100000];
-    // let err = br.read_exact(&mut jsonbuf).expect("could not read data");
-    // println!("got it: {} bytes read from stream", jsonbuf.len())
+    println!("Total records: {}\nSkipped records: {}", count, skipped);
+    //
+    // let mut strm = wr.stream_records();
+    // for n in 0..10 {
+    //     println!("going to pick up an item from the stream of warc records...");
+    //     {
+    //         let record = strm
+    //             .next_item()
+    //             .unwrap()
+    //             .unwrap()
+    //             .into_buffered()
+    //             .unwrap();
+    //         println!("record id: {}", record.warc_id());
+    //         println!("warc version: {}", record.warc_version());
+    //         let q = record.body();
+    //         println!("body: {:?}", q);
+    //     }
+    //
+    // let item = strm.next_item();
+    // println!("got an item, checking if it is nice");
+    // match item {
+    //     None => {
+    //         println!("we got nothing. oh no!");
+    //         break
+    //     },
+    //     Some(Ok(x)) => {
+    //         println!("{}",x.warc_id());
+    //     }
+    //     Some(Err(_)) => {
+    //         println!("terrible things happened");
+    //         break
+    //     }
+    // }
+// }
+
+// let mut jsonbuf = vec![0u8; 100000];
+// let err = br.read_exact(&mut jsonbuf).expect("could not read data");
+// println!("got it: {} bytes read from stream", jsonbuf.len())
 }
 
 fn main() -> tantivy::Result<()> {
