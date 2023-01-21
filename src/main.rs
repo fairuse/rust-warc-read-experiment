@@ -21,6 +21,16 @@ use warc::WarcHeader;
 
 
 fn warctest() {
+
+    // This is a test of reading archiveteam's zstd-dict-compressed files, with an embedded dictionary
+    // Zstd supports 'external' dictionaries, but that would mean having to keep another file around
+    // however, what archiveteam does is they put the contents of the 'external' dictionary within
+    // the zstd stream, and they do that by adding an extra 'frame' to the stream at the start, with
+    // the dictionary used. Since this is non-zstd standard, zstdcat will simply bail out.
+    // This code acts as an intermediate that peeks at the headers, then checks if there is an
+    // embedded dictionary, and if that the case extracts it, constructs a compressor with that
+    // given dictionary and then uses the zstd decompressor as usual.
+
     // from https://archive.org/download/archiveteam_telegram_20230121154949_3cc83c94/telegram_20230121154949_3cc83c94.1658771457.megawarc.warc.zst
     let f = fs::File::open("telegram_20230121154949_3cc83c94.1658771457.megawarc.warc.zst").expect("file not found");
     let mut r = BufReader::new(f);
@@ -29,7 +39,7 @@ fn warctest() {
     r.read_exact(&mut buf).expect("unable to read file header");
     // let i = i32::from_le_bytes(buf); // .try_into().unwrap() );
     println!("magic={:?}", buf); // should [93, 42, 77, 24], magic header
-    if buf[0]== 93 && buf[1] == 42 && buf[2] == 77 && buf[3] == 24 {
+    if buf[0] == 93 && buf[1] == 42 && buf[2] == 77 && buf[3] == 24 {
         println!("Magic matched zstd+customdict header")
     } else {
         panic!("did not encounter correct header, aborting");
@@ -51,6 +61,8 @@ fn warctest() {
         "normal dict: {}, comp dict: {}",
         is_normal_dict, is_comp_dict
     );
+
+    // the dictionary has to be decompressed separately if it turns out to be compressed
     if is_comp_dict {
         println!(
             "decompressing dict.. compressed dict len = {}",
@@ -73,12 +85,14 @@ fn warctest() {
         ); // should [93, 42, 77, 24], magic header
     }
 
+    // now that we have the decompression dictionary, we can rewind the file and feed it to a fresh
+    // decompressor with the dictionary we just built.
     r.rewind().expect("could not rewind file");
     let mut br = zstd::Decoder::with_dictionary(r, &dictbuf).expect("failed to construct decoder");
 
     let mut wr = WarcReader::new(BufReader::new(br));
 
-
+    // now we have a warc reader and will go through all of the records and print something
     let mut count = 0;
     let mut skipped = 0;
     let mut stream_iter = wr.stream_records();
