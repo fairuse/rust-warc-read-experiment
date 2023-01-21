@@ -21,7 +21,8 @@ use warc::WarcHeader;
 
 
 fn warctest() {
-    let f = fs::File::open("fayweldon.co.uk-inf-20230108-220216-3q9tt-00000.warc.zst").expect("file not found");
+    // from https://archive.org/download/archiveteam_telegram_20230121154949_3cc83c94/telegram_20230121154949_3cc83c94.1658771457.megawarc.warc.zst
+    let f = fs::File::open("telegram_20230121154949_3cc83c94.1658771457.megawarc.warc.zst").expect("file not found");
     let mut r = BufReader::new(f);
 
     let mut buf = [0u8; 4];
