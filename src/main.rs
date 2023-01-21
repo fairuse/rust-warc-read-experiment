@@ -100,17 +100,17 @@ fn warctest() {
         let record = record.expect("read of headers ok");
         count += 1;
         match record.header(WarcHeader::TargetURI).map(|s| s.to_string()) {
-            Some(hdr) => {
-                println!("hdr: {}", hdr);
+            _ => {
+                // println!("hdr: {}", hdr);
                 let buffered = record.into_buffered().expect("read of record ok");
                 println!(
-                    "Found record. Data:\n{}",
+                    "Found record. Data length:\n{}",
                     String::from_utf8_lossy(buffered.body()).len()
                 );
             }
-            _ => {
-                println!("huh, no header?");
-            }
+            // _ => {
+            //     println!("huh, no header?");
+            // }
         }
     }
 
