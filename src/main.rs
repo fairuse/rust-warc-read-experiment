@@ -19,14 +19,20 @@ use tantivy::ReloadPolicy;
 use warc::WarcReader;
 use warc::WarcHeader;
 
+
 fn warctest() {
-    let f = fs::File::open("c:\\temp\\telegram_20221103181246_61f581b9.1658771457.megawarc.warc.zst").expect("file not found");
+    let f = fs::File::open("fayweldon.co.uk-inf-20230108-220216-3q9tt-00000.warc.zst").expect("file not found");
     let mut r = BufReader::new(f);
 
     let mut buf = [0u8; 4];
     r.read_exact(&mut buf).expect("unable to read file header");
     // let i = i32::from_le_bytes(buf); // .try_into().unwrap() );
     println!("magic={:?}", buf); // should [93, 42, 77, 24], magic header
+    if buf[0]== 93 && buf[1] == 42 && buf[2] == 77 && buf[3] == 24 {
+        println!("Magic matched zstd+customdict header")
+    } else {
+        panic!("did not encounter correct header, aborting");
+    }
 
     r.read_exact(&mut buf).expect("could not read header");
     let dictsize = i32::from_le_bytes(buf); // .try_into().unwrap() );
@@ -79,12 +85,16 @@ fn warctest() {
         let record = record.expect("read of headers ok");
         count += 1;
         match record.header(WarcHeader::TargetURI).map(|s| s.to_string()) {
-            _ => {
+            Some(hdr) => {
+                println!("hdr: {}", hdr);
                 let buffered = record.into_buffered().expect("read of record ok");
                 println!(
                     "Found record. Data:\n{}",
                     String::from_utf8_lossy(buffered.body()).len()
                 );
+            }
+            _ => {
+                println!("huh, no header?");
             }
         }
     }
