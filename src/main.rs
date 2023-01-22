@@ -9,6 +9,7 @@ extern crate tantivy;
 
 use scraper::{Html, Selector};
 use std::fs;
+use std::fs::File;
 use std::io::prelude::*;
 use std::io::{BufReader, Cursor};
 use std::thread;
@@ -20,6 +21,7 @@ use tantivy::Index;
 use tantivy::ReloadPolicy;
 use warc::WarcHeader;
 use warc::WarcReader;
+use zstd::Decoder;
 
 const STACK_SIZE: usize = 4 * 1024 * 1024;
 
@@ -49,68 +51,7 @@ fn warctest() {
         .expect("file not found");
     let mut r = BufReader::new(f);
 
-    let mut buf = [0u8; 4];
-    r.read_exact(&mut buf).expect("unable to read file header");
-    // let i = i32::from_le_bytes(buf); // .try_into().unwrap() );
-    println!("magic={:?}", buf); // should [93, 42, 77, 24], magic header
-    if buf[0] == 93 && buf[1] == 42 && buf[2] == 77 && buf[3] == 24 {
-        println!("Magic matched zstd+customdict header")
-    } else {
-        panic!("did not encounter correct header, aborting");
-    }
-
-    r.read_exact(&mut buf).expect("could not read header");
-    let dictsize = i32::from_le_bytes(buf); // .try_into().unwrap() );
-    println!("dict size = {}", dictsize);
-
-    let mut dictbuf = vec![0u8; dictsize as usize];
-    r.read_exact(&mut dictbuf)
-        .expect("could not read dictionary");
-
-    let header = &dictbuf[..4];
-    let is_normal_dict = header == [0x37, 0xA4, 0x30, 0xEC];
-    let is_comp_dict = header == [0x28, 0xB5, 0x2F, 0xFD];
-
-    println!(
-        "normal dict: {}, comp dict: {}",
-        is_normal_dict, is_comp_dict
-    );
-
-    let decompress_dict = |dictbuf: Vec<u8>| {
-        println!(
-            "decompressing dict.. compressed dict len = {}",
-            dictbuf.len()
-        );
-        // let's decompress the dictionary first.
-        let dictreader = Cursor::new(dictbuf);
-        let mut dictdecomp = zstd::Decoder::new(dictreader).expect("unable to decompress dict");
-        let mut decompdictbuf = vec![0u8; dictsize as usize];
-        decompdictbuf.clear(); // should not be needed because read_exact replaces, right?
-        dictdecomp
-            .read_to_end(&mut decompdictbuf)
-            .expect("failed to write decompressed dictionary");
-        println!(
-            "decompressing dict.. decompressed dict len = {}",
-            decompdictbuf.len()
-        );
-        println!(
-            "dictmagic={:#x} {:#x} {:#x} {:#x}",
-            decompdictbuf[0], decompdictbuf[1], decompdictbuf[2], decompdictbuf[3]
-        ); // should [93, 42, 77, 24], magic header
-        decompdictbuf
-    };
-
-    // the dictionary has to be decompressed separately if it turns out to be compressed
-    let dictbuf = if is_comp_dict {
-        decompress_dict(dictbuf)
-    } else {
-        dictbuf
-    };
-
-    // now that we have the decompression dictionary, we can rewind the file and feed it to a fresh
-    // decompressor with the dictionary we just built.
-    r.rewind().expect("could not rewind file");
-    let mut br = zstd::Decoder::with_dictionary(r, &dictbuf).expect("failed to construct decoder");
+    let br = decompress_reader_zstddict(r);
 
     let mut wr = WarcReader::new(BufReader::new(br));
 
@@ -185,6 +126,72 @@ fn warctest() {
     // let mut jsonbuf = vec![0u8; 100000];
     // let err = br.read_exact(&mut jsonbuf).expect("could not read data");
     // println!("got it: {} bytes read from stream", jsonbuf.len())
+}
+
+fn decompress_reader_zstddict<'r>(mut r: BufReader<File>) -> Decoder<&'r BufReader<File>> {
+    let mut buf = [0u8; 4];
+    r.read_exact(&mut buf).expect("unable to read file header");
+    // let i = i32::from_le_bytes(buf); // .try_into().unwrap() );
+    println!("magic={:?}", buf); // should [93, 42, 77, 24], magic header
+    if buf[0] == 93 && buf[1] == 42 && buf[2] == 77 && buf[3] == 24 {
+        println!("Magic matched zstd+customdict header")
+    } else {
+        panic!("did not encounter correct header, aborting");
+    }
+
+    r.read_exact(&mut buf).expect("could not read header");
+    let dictsize = i32::from_le_bytes(buf); // .try_into().unwrap() );
+    println!("dict size = {}", dictsize);
+
+    let mut dictbuf = vec![0u8; dictsize as usize];
+    r.read_exact(&mut dictbuf)
+        .expect("could not read dictionary");
+
+    let header = &dictbuf[..4];
+    let is_normal_dict = header == [0x37, 0xA4, 0x30, 0xEC];
+    let is_comp_dict = header == [0x28, 0xB5, 0x2F, 0xFD];
+
+    println!(
+        "normal dict: {}, comp dict: {}",
+        is_normal_dict, is_comp_dict
+    );
+
+    let decompress_dict = |dictbuf: Vec<u8>| {
+        println!(
+            "decompressing dict.. compressed dict len = {}",
+            dictbuf.len()
+        );
+        // let's decompress the dictionary first.
+        let dictreader = Cursor::new(dictbuf);
+        let mut dictdecomp = zstd::Decoder::new(dictreader).expect("unable to decompress dict");
+        let mut decompdictbuf = vec![0u8; dictsize as usize];
+        decompdictbuf.clear(); // should not be needed because read_exact replaces, right?
+        dictdecomp
+            .read_to_end(&mut decompdictbuf)
+            .expect("failed to write decompressed dictionary");
+        println!(
+            "decompressing dict.. decompressed dict len = {}",
+            decompdictbuf.len()
+        );
+        println!(
+            "dictmagic={:#x} {:#x} {:#x} {:#x}",
+            decompdictbuf[0], decompdictbuf[1], decompdictbuf[2], decompdictbuf[3]
+        ); // should [93, 42, 77, 24], magic header
+        decompdictbuf
+    };
+
+    // the dictionary has to be decompressed separately if it turns out to be compressed
+    let dictbuf = if is_comp_dict {
+        decompress_dict(dictbuf)
+    } else {
+        dictbuf
+    };
+
+    // now that we have the decompression dictionary, we can rewind the file and feed it to a fresh
+    // decompressor with the dictionary we just built.
+    r.rewind().expect("could not rewind file");
+    let mut br = zstd::Decoder::with_dictionary(r, &dictbuf).expect("failed to construct decoder");
+    br
 }
 
 fn oldmain() -> tantivy::Result<()> {
