@@ -129,6 +129,8 @@ fn warctest() {
     // println!("got it: {} bytes read from stream", jsonbuf.len())
 }
 
+// takes a reader to a zstd compressed file with a custom dictionary, extracts it and returns a decompressed reader on the contents of that file
+// this could probably be made more generic, but I'm unsure how to do that right now
 fn decompress_reader_zstddict<'r>(mut r: BufReader<File>) -> Decoder<'r, BufReader<File>> {
     let mut buf = [0u8; 4];
     r.read_exact(&mut buf).expect("unable to read file header");
