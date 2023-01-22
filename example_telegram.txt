@@ -1,0 +1,1013 @@
+<!DOCTYPE html>
+<html>
+  <head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=21L7o4JU" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=Jjml7g96" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://t.me/s/ahoradigital/54144","20221225004459","https://web.archive.org/","web","/_static/",
+	      "1671929099");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta charset="utf-8">
+    <title>ahoradigital – Telegram</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="MobileOptimized" content="176"/>
+    <meta name="HandheldFriendly" content="True"/>
+    
+<meta property="og:title" content="ahoradigital">
+<meta property="og:image" content="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/j0orIm-D0GhFK3Rj5Axy8YKHWRShsdS5nYOieIzARPRxJgQ8USzmXouDC4wkD2Zl9PRppm6a_ThmtLjt67-D_kwcDM0UkP38WG4ZamzCA6el5IojW8HQAkwR2o-PvDO4JJWYCBidwhZoaQxKmEiaRywifU93x41J5Nit3j-vQnlRzqGkJdFdz__EHEgX4fcpRjmeNZrw8XIwooAoi6z_5yNeDqS262fsh7Xc7TedWCM9lDFkCxojPAkPwqvhGQ-2SzmVyt-Yy7RsX8VtO5Z0KNlpKooBUm56Riy7Fa_Adjw-BlleafPQPc6hXaXjlHlm3EbC6QJhsbFSbEZIQx8T-Q.jpg">
+<meta property="og:site_name" content="Telegram">
+<meta property="og:description" content="">
+
+<meta property="twitter:title" content="ahoradigital">
+<meta property="twitter:image" content="https://cdn1.telegram-cdn.org/file/j0orIm-D0GhFK3Rj5Axy8YKHWRShsdS5nYOieIzARPRxJgQ8USzmXouDC4wkD2Zl9PRppm6a_ThmtLjt67-D_kwcDM0UkP38WG4ZamzCA6el5IojW8HQAkwR2o-PvDO4JJWYCBidwhZoaQxKmEiaRywifU93x41J5Nit3j-vQnlRzqGkJdFdz__EHEgX4fcpRjmeNZrw8XIwooAoi6z_5yNeDqS262fsh7Xc7TedWCM9lDFkCxojPAkPwqvhGQ-2SzmVyt-Yy7RsX8VtO5Z0KNlpKooBUm56Riy7Fa_Adjw-BlleafPQPc6hXaXjlHlm3EbC6QJhsbFSbEZIQx8T-Q.jpg">
+<meta property="twitter:site" content="@Telegram">
+
+<meta property="al:ios:app_store_id" content="686449807">
+<meta property="al:ios:app_name" content="Telegram Messenger">
+<meta property="al:ios:url" content="tg://resolve?domain=ahoradigital&amp;post=54144">
+
+<meta property="al:android:url" content="tg://resolve?domain=ahoradigital&amp;post=54144">
+<meta property="al:android:app_name" content="Telegram">
+<meta property="al:android:package" content="org.telegram.messenger">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Telegram">
+<meta name="twitter:description" content="
+">
+
+    <link rel="prev" href="/web/20221225004459/https://t.me/s/ahoradigital?before=54134">
+<link rel="next" href="/web/20221225004459/https://t.me/s/ahoradigital?after=54154">
+<link rel="canonical" href="/web/20221225004459/https://t.me/s/ahoradigital?before=54155">
+
+    <script>window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches&&document.documentElement&&document.documentElement.classList&&document.documentElement.classList.add('theme_dark');</script>
+    <link rel="icon" type="image/svg+xml" href="//web.archive.org/web/20221225004459im_/https://telegram.org/img/website_icon.svg?4">
+<link rel="apple-touch-icon" sizes="180x180" href="//web.archive.org/web/20221225004459im_/https://telegram.org/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//web.archive.org/web/20221225004459im_/https://telegram.org/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//web.archive.org/web/20221225004459im_/https://telegram.org/img/favicon-16x16.png">
+<link rel="alternate icon" href="//telegram.org/img/favicon.ico" type="image/x-icon"/>
+    <link href="//web.archive.org/web/20221225004459cs_/https://telegram.org/css/font-roboto.css?1" rel="stylesheet" type="text/css">
+    <link href="//web.archive.org/web/20221225004459cs_/https://telegram.org/css/widget-frame.css?64" rel="stylesheet" media="screen">
+    <link href="//web.archive.org/web/20221225004459cs_/https://telegram.org/css/telegram-web.css?36" rel="stylesheet" media="screen">
+    <script>TBaseUrl='/';</script>
+  </head>
+  <body class="widget_frame_base tgme_webpreview emoji_image thin_box_shadow tme_mode no_transitions"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+</style>
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20221225004459/https%3A//t.me/s/ahoradigital/54144"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="/_static/images/toolbar/wayback-toolbar-logo-100.png, /_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, /_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://t.me/s/ahoradigital/54144" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20221225004459" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20221225004459*/https://t.me/s/ahoradigital/54144" title="See a list of every capture for this URL">1 capture</a>
+          <div class="r" title="Timespan for captures of this URL">25 Dec 2022</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="700" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap">Nov</td>
+            <td class="c" id="displayMonthEl" title="You are here: 00:44:59 Dec 25, 2022">DEC</td>
+            <td class="f" nowrap="nowrap">Jan</td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><img src="/_static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 00:44:59 Dec 25, 2022">25</td>
+            <td class="f" nowrap="nowrap"><img src="/_static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap">2021</td>
+            <td class="c" id="displayYearEl" title="You are here: 00:44:59 Dec 25, 2022">2022</td>
+            <td class="f" nowrap="nowrap">2023</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+                <a class="xxs" href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20221225004459/http://web.archive.org/screenshot/https://t.me/s/ahoradigital/54144"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20221225004459/https://t.me/s/ahoradigital/54144" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20221225004459/https://t.me/s/ahoradigital/54144" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+                    <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam_telegram)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archiveteam_telegram" target="_new"><span class="wm-title">Archive Team: Telegram</span></a></div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20221225004459/https://t.me/s/ahoradigital/54144</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(700,27,25,2,"web","https://t.me/s/ahoradigital/54144","20221225004459",1996,"/_static/",["/_static/css/banner-styles.css?v=S1zqJCYt","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+    <div class="tgme_background_wrap">
+      <canvas id="tgme_background" class="tgme_background" width="50" height="50" data-colors="dbddbb,6ba587,d5d88d,88b884"></canvas>
+      <div class="tgme_background_pattern"></div>
+    </div>
+    <header class="tgme_header search_collapsed">
+  <div class="tgme_container">
+    <div class="tgme_header_search">
+      <form class="tgme_header_search_form" action="/web/20221225004459/https://t.me/s/ahoradigital">
+        <svg class="tgme_header_search_form_icon" width="20" height="20" viewbox="0 0 20 20"><g fill="none" stroke="#7D7F81" stroke-width="1.4"><circle cx="9" cy="9" r="6"></circle><path d="M13.5,13.5 L17,17" stroke-linecap="round"></path></g></svg>
+        <input class="tgme_header_search_form_input js-header_search" placeholder="Search" name="q" autocomplete="off" value=""/>
+        <a href="/web/20221225004459/https://t.me/s/ahoradigital" class="tgme_header_search_form_clear"><svg class="tgme_action_button_icon" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 20 20" width="20" height="20"><g class="icon_body" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-width="1.5"><path d="M6 14l8-8m0 8L6 6" stroke-dasharray="0,11.314" stroke-dashoffset="5.657"/><path d="M26 14l8-8m0 8l-8-8" stroke-dasharray="0.371,10.943" stroke-dashoffset="5.842"/><path d="M46 14l8-8m0 8l-8-8" stroke-dasharray="1.982,9.332" stroke-dashoffset="6.647756"/><path d="M66 14l8-8m0 8l-8-8" stroke-dasharray="5.173,6.14" stroke-dashoffset="8.243"/><path d="M86 14l8-8m0 8l-8-8" stroke-dasharray="7.866,3.448" stroke-dashoffset="9.59"/><path d="M106 14l8-8m0 8l-8-8" stroke-dasharray="9.471,1.843" stroke-dashoffset="10.392"/><path d="M126 14l8-8m0 8l-8-8" stroke-dasharray="10.417,0.896" stroke-dashoffset="10.866"/><path d="M146 14l8-8m0 8l-8-8" stroke-dasharray="10.961,0.353" stroke-dashoffset="11.137"/><path d="M166 14l8-8m0 8l-8-8" stroke-dasharray="11.234,0.08" stroke-dashoffset="11.274"/><path d="M186 14l8-8m0 8l-8-8"/></g></svg></a>
+      </form>
+    </div>
+    <div class="tgme_header_right_column">
+      <section class="tgme_right_column">
+        <div class="tgme_channel_info">
+          <div class="tgme_channel_info_header">
+            <i class="tgme_page_photo_image bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i>
+            <div class="tgme_channel_info_header_title_wrap">
+              <div class="tgme_channel_info_header_title"><span dir="auto">ahoradigital</span></div>
+              <div class="tgme_channel_info_header_labels"></div>
+            </div>
+            <div class="tgme_channel_info_header_username"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital">@ahoradigital</a></div>
+          </div>
+          <div class="tgme_channel_info_counters"><div class="tgme_channel_info_counter"><span class="counter_value">84</span> <span class="counter_type">subscribers</span></div><div class="tgme_channel_info_counter"><span class="counter_value">54.2K</span> <span class="counter_type">links</span></div></div>
+          
+          <a class="tgme_channel_download_telegram" href="//web.archive.org/web/20221225004459/https://telegram.org/dl?tme=ebb25d5fb9f2956b74_13108138516996949393">
+            <svg class="tgme_channel_download_telegram_icon" width="21px" height="18px" viewbox="0 0 21 18"><g fill="none"><path fill="#ffffff" d="M0.554,7.092 L19.117,0.078 C19.737,-0.156 20.429,0.156 20.663,0.776 C20.745,0.994 20.763,1.23 20.713,1.457 L17.513,16.059 C17.351,16.799 16.62,17.268 15.88,17.105 C15.696,17.065 15.523,16.987 15.37,16.877 L8.997,12.271 C8.614,11.994 8.527,11.458 8.805,11.074 C8.835,11.033 8.869,10.994 8.905,10.958 L15.458,4.661 C15.594,4.53 15.598,4.313 15.467,4.176 C15.354,4.059 15.174,4.037 15.036,4.125 L6.104,9.795 C5.575,10.131 4.922,10.207 4.329,10.002 L0.577,8.704 C0.13,8.55 -0.107,8.061 0.047,7.614 C0.131,7.374 0.316,7.182 0.554,7.092 Z"></path></g></svg>Download Telegram
+          </a>
+          <div class="tgme_footer">
+            <div class="tgme_footer_column">
+              <h5><a href="//web.archive.org/web/20221225004459/https://telegram.org/faq">About</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//web.archive.org/web/20221225004459/https://telegram.org/blog">Blog</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//web.archive.org/web/20221225004459/https://telegram.org/apps">Apps</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//web.archive.org/web/20221225004459/https://core.telegram.org/">Platform</a></h5>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="tgme_header_info">
+      <a class="tgme_channel_join_telegram" href="//web.archive.org/web/20221225004459/https://telegram.org/dl?tme=ebb25d5fb9f2956b74_13108138516996949393">
+        <svg class="tgme_channel_join_telegram_icon" width="19px" height="16px" viewbox="0 0 19 16"><g fill="none"><path fill="#ffffff" d="M0.465,6.638 L17.511,0.073 C18.078,-0.145 18.714,0.137 18.932,0.704 C19.009,0.903 19.026,1.121 18.981,1.33 L16.042,15.001 C15.896,15.679 15.228,16.111 14.549,15.965 C14.375,15.928 14.211,15.854 14.068,15.748 L8.223,11.443 C7.874,11.185 7.799,10.694 8.057,10.345 C8.082,10.311 8.109,10.279 8.139,10.249 L14.191,4.322 C14.315,4.201 14.317,4.002 14.195,3.878 C14.091,3.771 13.926,3.753 13.8,3.834 L5.602,9.138 C5.112,9.456 4.502,9.528 3.952,9.333 L0.486,8.112 C0.077,7.967 -0.138,7.519 0.007,7.11 C0.083,6.893 0.25,6.721 0.465,6.638 Z"></path></g></svg>Join
+      </a>
+      <a class="tgme_header_link" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital">
+        <i class="tgme_page_photo_image bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i>
+        <div class="tgme_header_title_wrap">
+          <div class="tgme_header_title"><span dir="auto">ahoradigital</span></div>
+          <div class="tgme_header_labels"></div>
+        </div>
+        <div class="tgme_header_counter">84 subscribers</div>
+      </a>
+    </div>
+  </div>
+</header>
+<main class="tgme_main" data-url="/ahoradigital">
+  <div class="tgme_container">
+    <section class="tgme_channel_history js-message_history">
+      <div class="tgme_widget_message_centered js-messages_more_wrap"><a href="/web/20221225004459/https://t.me/s/ahoradigital?before=54134" class="tme_messages_more js-messages_more" data-before="54134"></a></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54134" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxMzQsInQiOjE2NzE5MjkxMDAsImgiOiI4MzZkZjEzNGY0ZjJlZmUwYmMifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Envían a la cárcel al militar acusado de violar a una adolescente en el cuartel de Viacha via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/n5YkNF3" target="_blank" rel="noopener">https://ift.tt/n5YkNF3</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/n5YkNF3">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/ojNs9dgUCaCKpGdt_gm1VcKLp_3enByaJaacfGQ2-wIvei-sqMJMi344cJ6dGxccYL8e_yquIQWNgvLPinFrwxlfOfBfVQGPW0MTbg5Czf0NpLYV1B50Vtk0k18Ukp7PkxcmXPFNSQQbd4d3BtXaF0Bs9dTKPW7T7YpWT7hWmO2SsjHUl1iOtfAyE7EgWSWmyxjwFXUhLjP2LEe9nUgEyBzmEz_yQa4ogR0yLtBR9aGmBzv5U1a7oqg5iVXeYv7RKRpBR3frTsB5IN60TS7e1qxLRiYwDX-tr_NG8iSNQ7uLINfNWMKxv-UyGL84LN-g1Aw4pVpJAOUb44N4CxnCcA.jpg');padding-top:68.28125%"></i>
+  <div class="link_preview_title" dir="auto">Envían a la cárcel al militar acusado de violar a una adolescente en el cuartel de Viacha</div>
+  <div class="link_preview_description" dir="auto">Andreas M. C., teniente del recinto militar de Viacha (La Paz),&nbsp;fue enviado a la cárcel de San Pedro&nbsp;con detención preventiva.</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54134"><time datetime="2022-12-23T18:39:22+00:00" class="time">18:39</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54135" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxMzUsInQiOjE2NzE5MjkxMDAsImgiOiIzOWQ5ZDQ3MWMzNTg1NzA3ZGMifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Arce brindará mensaje por Navidad y viajará a Brasil para la posesión de Lula via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/3ybhApC" target="_blank" rel="noopener">https://ift.tt/3ybhApC</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/3ybhApC">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/vHZ-D-HZDifCY0jS_hu6Rbgo0-Wa2LNX3kCSrki-ZJejRhJ_iN7ChrHxbMIw_1ccWkURAAAp3jRLiJb0HcJqWVdTx2lsBDr4FnVjmct0bGepK-HaGB5SwaXqcQQXWsqveNz9QPeEYcmffJnbTr8D828qw-y6lk-MjWCm6ATIaf5qEBs03XR8SuVNIT-IpBQrr0Y_YOnZLiCmlCIxjQBOdGBnImdsRvuP_2jRLgckLkxhykWNnzKlG_7cZmEEUh4FiZJqXtFIiPPH8-F9mZzY4qWbgzHejJE1L1tPDGOKuc0iDx1cic_g33HRT4ca1VUqV0v42A9QLhGUL9xDl5pL3g.jpg');padding-top:68.28125%"></i>
+  <div class="link_preview_title" dir="auto">Arce brindará mensaje por Navidad y viajará a Brasil para la posesión de Lula</div>
+  <div class="link_preview_description" dir="auto">El presidente&nbsp;Luis Arce emitirá un mensaje por Navidad el 24 de diciembre (noche buena)&nbsp;y el 1 de enero estará en</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54135"><time datetime="2022-12-23T18:39:23+00:00" class="time">18:39</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54136" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxMzYsInQiOjE2NzE5MjkxMDAsImgiOiJkZTQ4NzJkYTlhNjk0MGQ4MjYifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Tiroteo en París: 3 personas muertas y varios heridos tras el ataque de un hombre armado via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/s3cMoeQ" target="_blank" rel="noopener">https://ift.tt/s3cMoeQ</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/s3cMoeQ">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/qRmMndF-Dfo1C1sG1fzimZDYQoAfmKiXJyE591DKkKJrR13emc3j63TmW4NfDj2tPNxsSRg_yqKANoMuc-kH9Gd99IXcI6XKH0j6jJHinJ7qSyAW7NV6__mnutaj_H5bX9E6MdAy3hSWWtZix7W_jZkCZtak0haoq4HW_W-AMwNnZc8E1aHCIvJeOgemDk9ib7Yh2EP7IyoDFgOLJPTM5YdqTb6PRnMeggY7skdgPU3mRjEWlG7qLmi42gXnxpZHXtMWzf1LIUVM1eJeP7IMVBDARIahcype6_PfWOG5Xm5vCMH6pwMsWd2HlDasDUMVmZiea0FRe7ptap7b-YTMig.jpg');padding-top:68.28125%"></i>
+  <div class="link_preview_title" dir="auto">Tiroteo en París: 3 personas muertas y varios heridos tras el ataque de un hombre armado</div>
+  <div class="link_preview_description" dir="auto">Un hombre armado abrió fuego este viernes en el centro de París causando la muerte de tres personas e hiriendo</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54136"><time datetime="2022-12-23T18:44:36+00:00" class="time">18:44</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54137" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxMzcsInQiOjE2NzE5MjkxMDAsImgiOiJmY2M3MmQyNzBiYjIxMWYyN2YifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Rodrigo De Paul sorprendió a Tini en un show: «Aquí al lado tengo a la mujer de mi vida» via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/LwT6n5S" target="_blank" rel="noopener">https://ift.tt/LwT6n5S</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/LwT6n5S">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/ainzPzWHXxq3uf984zh5o4XV32aRI36FMjoWuyhMjd8yhDWvXCnUMpYy61Ta_1SDRYHE2XZGPO3ZDr5Ipo6VdxmPRDduzWLdeInKs9CJPTbtYFT1Dhij1EGNouZoYtz2hxNqFk3LOh4niAZseCdPDCULCWkGBo7cHvL_D2XGDqeimSB8-nYarESTbQKkgy8_rKghdqynoIaIRHVrhF1ltMlGSXbGUXXCubyeX5VjZTQCNPHZlKxz9PMoYz5gJLS0T7uj2jWRI5_IyXqywyyq946ifnx3zLWU-LQyRNLjg8ig8t60cnw2ZaOwVichzE7IaXJ_GVgpbhRchVXW68lZyg.jpg');padding-top:68.28125%"></i>
+  <div class="link_preview_title" dir="auto">Rodrigo De Paul sorprendió a Tini en un show: «Aquí al lado tengo a la mujer de mi vida»</div>
+  <div class="link_preview_description" dir="auto">Al futbolista&nbsp;Rodrigo De Paul y la cantante Tini Stoessel se les atribuyen incontables crisis de pareja y constantes rupturas, pero</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54137"><time datetime="2022-12-23T18:50:05+00:00" class="time">18:50</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54138" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxMzgsInQiOjE2NzE5MjkxMDAsImgiOiJiM2Y3MDc0YTllN2Y2ODI0ZDgifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Ricardo Montaner se mostró por primera vez con sus nietos Índigo y Apolo: la llamativa foto en familia via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/zuXNCix" target="_blank" rel="noopener">https://ift.tt/zuXNCix</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/zuXNCix">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/cb5SsWIixmPjyhiienMT_ltTRKrqHOW6gKu9Qwfj7P5Iobll9Ry22AislILXOxaarS4ux-pZgEK0oY5hqHyReHEoNs2DcO-p-q2ilAInh2qDKQpOF9eZ69NBbvi_FgWeIa8VAYJFKreEu_xnmMqVktCRT45KVhazWtNK9JxP7N_7djgTyTiv4pTfykeloFu2jvI0z56ajBN-7CpkYltUxPYvzrXxDH1SVOZ_rmZCpRFrERQWsMD2ifMYoo2OSG9w09_BXtavSv2fUIZE9_d_GkFoe1aWXwA9EGDyXwmfkPGN4rGOIUq3odlKlMCBqFRUmKpZ0-wU68wb5jXXYUQ22A.jpg');padding-top:56.25%"></i>
+  <div class="link_preview_title" dir="auto">Ricardo Montaner se mostró por primera vez con sus nietos Índigo y Apolo: la llamativa foto en familia</div>
+  <div class="link_preview_description" dir="auto">Ricardo Montaner&nbsp;sorprendió a sus fans al postear en&nbsp;Instagram&nbsp;la&nbsp;primera foto con&nbsp;sus nietos,&nbsp;Índigo&nbsp;y&nbsp;Apolo, desde el nacimiento de los chicos. El cantante, que</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54138"><time datetime="2022-12-23T18:55:23+00:00" class="time">18:55</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54139" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxMzksInQiOjE2NzE5MjkxMDAsImgiOiJhZmI3NTk0YTQ2MjlhNDRjNTQifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Tamara Báez adoptó a un tierno perrito y le dio la bienvenida en las redes: «Ahora somos tres» via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/c0ALF8D" target="_blank" rel="noopener">https://ift.tt/c0ALF8D</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/c0ALF8D">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/ahJJ007d8DVIKWRqhvysA6YO0DGGsjBnsf0dXaZDBY_O9lHcUzH6aBkAI_Kd1e_N8nJQh-NENvUOQ4d-njfkdBTXN7dIjTEf1Ep8oX_aPMTT-r6dUUn9sFtlJ-c-UuYQ5oYiMFHJW8bz2ptpjq7_NXzeu7iLmFl2guWMPTRhGS-WSlHVhwlvRBz-adaYxq_UBNSdmViGb4aCsP2EoVIKSp1WTY-Mdt3Pate7YVzCAend4AHrWiP3ZKBlpbDzj61QeHfxaUGKNbwrBmgf0IlVk0Vp_wbUYjFv_bMydydtOeso2C3YPihN0aAru59r2NPT59duFqF90d-Qt8aG7vuvVA.jpg');padding-top:56.25%"></i>
+  <div class="link_preview_title" dir="auto">Tamara Báez adoptó a un tierno perrito y le dio la bienvenida en las redes: «Ahora somos tres»</div>
+  <div class="link_preview_description" dir="auto">Tamara Báez, aún en conflicto con su ex,&nbsp;L-Gante, sorprendió con dos noticias a la vez. Por un lado, sacó un</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54139"><time datetime="2022-12-23T19:04:07+00:00" class="time">19:04</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54140" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNDAsInQiOjE2NzE5MjkxMDAsImgiOiIwNzAyOWU4ZjMwYmQyODlmNDQifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">La boda de Nicolás Tagliafico y Caro Calvagni: la pareja mostró los tatuajes que se harán los invitados via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/2MsNOpv" target="_blank" rel="noopener">https://ift.tt/2MsNOpv</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/2MsNOpv">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/GaXvMkyQp7GNVBgdSZUUg0OfjkCSmlXcON0BAt6ue6rFKHEaYagwuBavuuKo8DvBDT_GIz67OoB5gDjvJ8Cqlfm6e7-xy-58Rj1-ucO-s7bCE0tYc3zTgFXbskNdkIvBNpPrKQYRAe5WZK2Qsg7791vlq2Emaif-hHPIf5mfO9qAUVJMufuaXvukJPz8bzrdF5zUG1zB-yFO76GlK0tNijcvZCF6sYoz-TXSpnZAuubbmeAWOKj3mrgAeegfoM4nJwxazYa4zqYs4BU0Cl7AZ-sjyJ4UEoohXMISlqrZYIBTbAWHl04bz-l1ajzYYmqNrF3oZo4aWq3tfFvo0eHKUA.jpg');padding-top:56.25%"></i>
+  <div class="link_preview_title" dir="auto">La boda de Nicolás Tagliafico y Caro Calvagni: la pareja mostró los tatuajes que se harán los invitados</div>
+  <div class="link_preview_description" dir="auto">Aunque&nbsp;Caro&nbsp;Calvagni&nbsp;y&nbsp;Nicolás Tagliafico&nbsp;se casaron el año pasado, este año, el 27 de diciembre,&nbsp;celebrarán su esperadísima fiesta. Además de prestarle suma atención</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54140"><time datetime="2022-12-23T19:14:30+00:00" class="time">19:14</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54141" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNDEsInQiOjE2NzE5MjkxMDAsImgiOiJjMzVkZjIyNGI4ZDAyOGU4ZmEifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">La FIFA anuncia el mejor gol del Mundial, conoce cuál es via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/OXiAeUk" target="_blank" rel="noopener">https://ift.tt/OXiAeUk</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/OXiAeUk">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/GnSCho6JpStnZ7EI5tHlBwCHbXcepsAFwoDsHerZwW-GuZBt-I1jIXLe65XygqGumdxDOi0j6Y4ocsDymT-fIoZLFZlhsU9aXzL1SJitU5ZmkCsfwYqD3xV-nNY9Ax3HCERup0eGkG9wOJhCSYadqGdDVLjeNTJFGyvJvnJMT9zE-0hr7wRAeR3ZxQdnlNsverwJpW7MTqx2W3QUsmYfJRoIospIao4UCrzQp6DrPdGgyP2vBORuHt2e6Ayv1hiIhVZ35nyfz-JgMgDV4ftWqF6MBu8XuSdtqSF3Lcum3taN66MoVEadbgsgmeLdok6EoicFJauLyseQ8dmODBxX7g.jpg');padding-top:62.1875%"></i>
+  <div class="link_preview_title" dir="auto">La FIFA anuncia el mejor gol del Mundial, conoce cuál es</div>
+  <div class="link_preview_description" dir="auto">Después de 64 partidos en los que se anotaron 172 goles, la FIFA dio a conocer días atrás los que</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54141"><time datetime="2022-12-24T11:29:05+00:00" class="time">11:29</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54142" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNDIsInQiOjE2NzE5MjkxMDAsImgiOiI3Y2Q1MDU3NGI4Y2VjYTRiMzMifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Avasalladores tomaron de rehenes a policías para intercambiarlos por los aprehendidos en Guarayos via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/ebMz3ad" target="_blank" rel="noopener">https://ift.tt/ebMz3ad</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/ebMz3ad">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/KLg7N2QOh9IpjbFQYLdN4m86leD-ODDehh9glnnorwaCLFwmebOBhoXgWLRAAmKrMNtzCy7EFOWuRV36hWcg1VMYzxrkyBrFONI88rhZdmt0N9ye3NGsnAasMWHtMqgjBmLy6Zv8qNtmql7Hq-XUtizklcR2kMvxcsIUQkGIVvuprtpT-BNg_9G324gf6XIrOiSMAN9hls1w3pzYbhEtuPsuVoKkL0v5pUw1RwsZimZlePToO5akwW-2f6GRBAEO_oMj45MnSxVx5Hzh5481nu8OHQUafDCZd0xVP5nQbx8HYgPDfor5BOY4cvxGsOXip-xIiFEQZ8hzempI1acdnA.jpg');padding-top:56.25%"></i>
+  <div class="link_preview_title" dir="auto">Avasalladores tomaron de rehenes a policías para intercambiarlos por los aprehendidos en Guarayos</div>
+  <div class="link_preview_description" dir="auto">Un grupo de policías, sin determinar la cantidad, fue cercado por presuntos avasalladores que impedían que trasladen a los 12</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54142"><time datetime="2022-12-24T11:29:06+00:00" class="time">11:29</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54143" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNDMsInQiOjE2NzE5MjkxMDAsImgiOiJiZWQ4NWU1ZWViOGEzYWY1MjgifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Quintana al gobierno de Arce: No tienen idea de las consecuencias que tiene atacar a Evo, tienen aún tiempo para bajar las armas via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/16nFgJK" target="_blank" rel="noopener">https://ift.tt/16nFgJK</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/16nFgJK">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/IWrB_L93_RNS2fhNEggWMDytL_ZH9Xa8bqtqlDxxKgTcWok-pqC2q85s-oXyFk8DPaSLZPnpPFjpKQYZNnxAHPyIWppI2HgWr_gAtF8aOtlcp8b_nQD9W6E48BK-DCBFS77gkp-d0E_meDIvVdYqbi9zRBrS1RbAR-PNAzatyNtABtactFgowmDpedXfhW_QTH-QAmOd7NsOWgGQ0ekenbBZySNGOeiqomBCz-zGEXuoPY2_SNFxs0zgquF5ndsbbn2u8pf-evBxg3ujPPf9JIGTLNce8d1f4DbEmAbzsjRRZzuXzzDtcQmZf_3W-B7tON92ZqLCibhdhSjnRYiHVg.jpg');padding-top:56.25%"></i>
+  <div class="link_preview_title" dir="auto">Quintana al gobierno de Arce: No tienen idea de las consecuencias que tiene atacar a Evo, tienen aún tiempo para bajar las armas</div>
+  <div class="link_preview_description" dir="auto">El exministro de la Presidencia, Juan Ramón Quintana, arremetió este viernes contra el gobierno de Luis Arce y les dijo</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54143"><time datetime="2022-12-24T11:29:06+00:00" class="time">11:29</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54144" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNDQsInQiOjE2NzE5MjkxMDAsImgiOiI1M2U4ZWY4MGMzN2QzOTNlZGQifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Diputada del MAS: No puede ser que los que nos patearon en 2008 hoy lancen la candidatura de Evo via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/nd5otaV" target="_blank" rel="noopener">https://ift.tt/nd5otaV</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/nd5otaV">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/iEqObpH3Y6-AWRkpVFLJKvFx4yJy4nUh9DJsyn1Ld8Y6XmBSssS9EUUna63oMM-ok5iz3zP1Fegj7-qGnKbmOCkh9ZNRwg9lCxH1VJO0gbOmeBrZQZ_mIzUC2Qx0S3bXEATk2EmULbQ3fj5aaVE_xc6KR-R8mRzvNVuyGHgGgkuZiAD-55khFHCJLJ4QcH2kyfT2Z_BuZmejFW4IyI0tVJdxFW8wKXR-83sLAxomtfUH9gZA7Y65PgO1EMZiCr0AEkr01rcbFo5rLD0WHsGpuHd9Xa6mKHg9tU_zEVfmOp3wAlJaVO_89bbqWt-RsIDAeZzd8FwbqzbKu-aQ7nNKbA.jpg');padding-top:56.25%"></i>
+  <div class="link_preview_title" dir="auto">Diputada del MAS: No puede ser que los que nos patearon en 2008 hoy lancen la candidatura de Evo</div>
+  <div class="link_preview_description" dir="auto">La diputada del Movimiento Al Socialismo (MAS) Deysi Choque dijo que no puede ser que las personas que los “patearon”</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54144"><time datetime="2022-12-24T11:29:07+00:00" class="time">11:29</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54145" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNDUsInQiOjE2NzE5MjkxMDAsImgiOiJlZDJjNGQ2NDQzMmU4MDQwNDIifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Quintana sobre el jefe del Ejército: “No me explico cómo alguien que roba puede ser un comandante” via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/FpZGdyR" target="_blank" rel="noopener">https://ift.tt/FpZGdyR</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/FpZGdyR">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/tXpCra9rVatBcJfwWyl7jyfUbsUckJYDQG_iu8Pnjxd3qP2Q6rLYRPwOz3eNNeNyAauClaTsr9D-hUSe3E4o8sOyOoLkRKeTXQTg9ghKC3ebMZyafIFPrChbfqFi5oMp5A0Z7SILMzQwty216gIwPkVkzeOhJuiXFwH3qLQ2pYhZWTMsr6Iu3USjyUOOTP_U1r8i9gNMVOpOZ8r-RUfqPhrjU4ikjekchUsnBjzamm3wg-OpCWFsrBxsQbagUWRmTJsCvw7B5eAGzzmebD6VfhMRH_GZcCkbLsZrrBAC7zllC8WouK5UhglP-MEciZa6tKxcdigyzYNQvcikFbDeXg.jpg');padding-top:56.25%"></i>
+  <div class="link_preview_title" dir="auto">Quintana sobre el jefe del Ejército: “No me explico cómo alguien que roba puede ser un comandante”</div>
+  <div class="link_preview_description" dir="auto">El exministro de la Presidencia, Juan Ramón Quintana, salió este viernes en defensa del expresidente Evo Morales y arremetió contra</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54145"><time datetime="2022-12-24T11:29:08+00:00" class="time">11:29</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54146" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNDYsInQiOjE2NzE5MjkxMDAsImgiOiJlYmJkNGMxYzE5ZjE2YWU0NDUifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">El Senado priorizará el tratamiento de la reforma judicial en el primer trimestre de 2023 via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/MQ1FH0N" target="_blank" rel="noopener">https://ift.tt/MQ1FH0N</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/MQ1FH0N">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/L0mCq6VrXc-OSjAOaCHCxXbTYg9gL267hYrcVCZRTrYqSFOIGLi-aSHuWzgbfrHtyrhLo1KizyhvHFNnPuEQctz7hcYW4HbqUL1x5VRncNQn39cxK65RwKZCnJei7r04KWp5R5BGFaDoArJLOp0i1-i5vLu1Eqbz_QmAs6ERUdf6Qsvd1vf31rwsAubFiySm2gYqpiFAtbOXGsXbwzpqd4on294oTvPeWq8scvcZ2WoCsvRLBQOo9bmhIN9CB-QQMyDBeZcNygQva-lM5cevFMb1cieHt2t1fj5ScXX3r_99zQjVHDFMU1otGQYCSB9Aot1v6mzN2jKnWYR_Gmp3cw.jpg');padding-top:61.875%"></i>
+  <div class="link_preview_title" dir="auto">El Senado priorizará el tratamiento de la reforma judicial en el primer trimestre de 2023</div>
+  <div class="link_preview_description" dir="auto">El presidente de la Comisión de Justicia del Senado, Luis Adolfo Flores (MAS) informó que el primer trimestre de 2023</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54146"><time datetime="2022-12-24T11:29:12+00:00" class="time">11:29</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54147" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNDcsInQiOjE2NzE5MjkxMDAsImgiOiJmYjc5MDRiZDU3MjI5NzFjYzcifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">La foto que subió la hija de Pelé con su padre desde el hospital: “Una noche más juntos” via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/O3JCU2A" target="_blank" rel="noopener">https://ift.tt/O3JCU2A</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/O3JCU2A">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/pxvv-7YWQ_iSlrkcXfc-Y2ZKjNzihUJFcK3yE2gg6RrlSaPOuu3oBPmCnKPZcr5PAS2D8YAwU6zEMjxFF_-t49CiXQXH3zljBz955b4dJQVSEKgCa0V6iRzVGgMZhLTGtwgftWIRzqlF-fVaLhScau63gUHbboit8lKoIA-hmgCQ5U0wxF5jpjjH-Z2wvvtYEkx3lXaOgGjFSvS4-7LmALoO3X150SP3O6TyD4suk6HAKuIWkQmg_jAGXqWs9owPCQLY8oS9ghwU3GJvLtxQPcH80eDx3c7eUgCcx8EF-X7G1EdANjHhA4ngaIMZoG_rTY8dGV-xSKw9y0D8jqpqww.jpg');padding-top:75%"></i>
+  <div class="link_preview_title" dir="auto">La foto que subió la hija de Pelé con su padre desde el hospital: “Una noche más juntos”</div>
+  <div class="link_preview_description" dir="auto">Pelé continúa internado en un hospital de San Pablo producto de un cáncer metastásico luego que su salud se haya</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54147"><time datetime="2022-12-24T11:29:14+00:00" class="time">11:29</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54148" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNDgsInQiOjE2NzE5MjkxMDAsImgiOiJkOWI3M2ZhNzcwYzdlYjRiYjgifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Más de un millón de personas sin luz y casi 7.000 vuelos cancelados ha dejado la tormenta invernal que azota los EEUU via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/OvzpX9r" target="_blank" rel="noopener">https://ift.tt/OvzpX9r</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/OvzpX9r">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/jZYhlQ5NHug4MF1GxXzBo_jyRMlzPENmA8GxEpgezQW2qyAdfudWY86s6F_xhYbzt7BgQKY-zhmDkWg9ot-Gp0Er_8LK4MGWi2UQT_OzPRin5PuSYoZE-gRGPBNMl36X4QMa3or_lgMFjPYB-1QRicv6t41_XZ-MLCLoc9Rb9JZK1t7RHiyaIX9zMH-xD1asx5apmJRBZkXhIX7xvru8UJECBHQqf3RLGqAnE5sOfWoGapT-nCiE0cq4rjbhuD2iDgZG_hKpL07xfWwCxyuOx8hhv4RZ8CEKNCQF98U6dvwR_4_cptDhrQwPDkVNTQF4PNfNaMivcpM8Uz0hNCUdrw.jpg');padding-top:60.9375%"></i>
+  <div class="link_preview_title" dir="auto">Más de un millón de personas sin luz y casi 7.000 vuelos cancelados ha dejado la tormenta invernal que azota los EEUU</div>
+  <div class="link_preview_description" dir="auto">Más de&nbsp;un millón de personas&nbsp;se han quedado sin electricidad&nbsp;en varios estados de Estados Unidos&nbsp;a causa de una fuerte tormenta invernal</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54148"><time datetime="2022-12-24T11:29:14+00:00" class="time">11:29</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54149" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNDksInQiOjE2NzE5MjkxMDAsImgiOiJiN2ViNDhkNzI5YTQ2M2RmMDcifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Dos feminicidios sacuden al país a horas de Navidad,4 niños quedaron huérfanos via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/AkSGW2h" target="_blank" rel="noopener">https://ift.tt/AkSGW2h</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/AkSGW2h">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/U3raXuIWfy21OAdZQCnWmIhSMMBb8vqChQm51B1g4ro3XQLQEebOKzQHL9xCfS2CJppIQ1xreGO5gsp18IUpZs_XOYkylCcBJ8_1MpV3vdZqDhdgyzziRd2PoLhBWd2lq8oGmn1zhOlwiRERXR4lO4kAW595_E-hrwQ0ubJW_OgP3HOMTHoWGLNpLUQLcCBbCAFdH2ewgMXCi-T_Ph_OiuKPvhyu5MKIFDb0o8hySupKsBQzdPsML0IGlQamEvwHhIxGbV4dmvSgsx0V9mJLuhnzUhfNuyEaYbRKP4Z1ZX8tGEh45x0zxXphGSX3QTIoLab4S29-Xb4YkkHZdVwwpA.jpg');padding-top:57.03125%"></i>
+  <div class="link_preview_title" dir="auto">Dos feminicidios sacuden al país a horas de Navidad,4 niños quedaron huérfanos</div>
+  <div class="link_preview_description" dir="auto">A pocas horas de celebrar la Navidad, dos feminicidios sacuden al país y dejan cuatro niños en la orfandad. Los</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54149"><time datetime="2022-12-24T11:54:27+00:00" class="time">11:54</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54150" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNTAsInQiOjE2NzE5MjkxMDAsImgiOiJkNzdlOWIyNjljNDk3YzUzNDgifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Horror en Bolivia: Padre violaba a sus tres hijas de 15, 8 y 4 años via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/C4yZbo0" target="_blank" rel="noopener">https://ift.tt/C4yZbo0</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/C4yZbo0">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/FzrMrTWl78Qd7ZpIRt88bDoSMEDmBzdIEyjbrDdA0chvTzVdd6j9hLA0FiTa9acqAp4aKC6N1cJbPd48wpEUvcCXaSax4TKnH-32awRyEdrIfhxKlAVRkF_klT_CjztlJoZPqISNeAq6NYSLeXPmVaKOYQvTtdR-jMer6FbC9qP8u5Icdxf_BhcBi_UclMDbAtEl6EMkuh8stlg7ZTTBoeQpqpg6B1s30cjRiiKUGalsf97XT8k0FxSKEwCooj90ri18pD4s4uPohtuu6BJJFMvVfZgv-WMl54e3RN62mDV8HhnLrpSEBZ0kFN5gB60PsoWnGh2xuC-Xo_G5tUMPBA.jpg');padding-top:66.5625%"></i>
+  <div class="link_preview_title" dir="auto">Horror en Bolivia: Padre violaba a sus tres hijas de 15, 8 y 4 años</div>
+  <div class="link_preview_description" dir="auto">En audiencia de procedimiento abreviado, el Juzgado de Instrucción en lo Penal Cautelar de Santa Cruz dictó ayer 30 años</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54150"><time datetime="2022-12-24T11:54:28+00:00" class="time">11:54</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54151" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNTEsInQiOjE2NzE5MjkxMDAsImgiOiIxN2QxZGMxOTJlMzM5YmViYjAifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Policía captura a joven autor confeso del feminicidio de su expareja en Zongo via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/DRrivsL" target="_blank" rel="noopener">https://ift.tt/DRrivsL</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/DRrivsL">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/aw-B9uORxFCuNNFIUGoFYFXyubaXxNW5-hxiyJBHJW3FucrJw2B1Z9LE0Sq9CMVzf06xl4Wl-1aYcbWJYAPkEarMqVzBQX8w2dZU7tCggkh5xt-_fuil9H-IDK5ZzhE6KtdalwviDhyqYYCStgYs7R4mvLkqrNWPv1HsXVruzcPZi5EhGr4BHQBkXR0c3HQx1Grguvcyw3jgsRd8bzOLmmyN3L_fdHuC9MtuStvs2c2Ee8BztGa1O0YkutNe-PMZlXLrDkxHbF1emQojcsBtWw8JALp15upa1zy0bfyVNl4UlG7pixtYUca3Q-LKu95Kp8feAbZvSOqKhUF8erpw0w.jpg');padding-top:61.5625%"></i>
+  <div class="link_preview_title" dir="auto">Policía captura a joven autor confeso del feminicidio de su expareja en Zongo</div>
+  <div class="link_preview_description" dir="auto">La Policía logró esclarecer un violento feminicidio en el Valle de Zongo en el departamento de La Paz. La víctima</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54151"><time datetime="2022-12-24T11:54:29+00:00" class="time">11:54</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54152" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNTIsInQiOjE2NzE5MjkxMDAsImgiOiI1OWQ5NGM2N2M4OWUwMTEwMjAifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">El presidente Arce irá a la posesión de Lula en Brasil; Evo también fue invitado via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/yP37U1r" target="_blank" rel="noopener">https://ift.tt/yP37U1r</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/yP37U1r">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/gEHrk2hCdE30mklYtV3RzqxCnPVjU99KEA2QQXPf0jx2G5gRBcAlkd0SiZgHmA6ZhxjZevOsFdBAnSEK1MBmWQhh7Nr6h7mqGSmch0GgoieVB1jiTWVmAt0dMndrLmFT2xx4qzJEN4U5ufRjmPdOgL4gSTBYa__rN-BtsyRMfWKMfVgrjavslA2YCxGcXgHec_B64DjQOSoH_Gmo6pf_xPb47wmuOMZVBnIz6yQsv3uKfJVn_QBwRN1AxO2jyc0L4r1LwthgujTLANGbyHlJHRGXnI2TLJpfm85Jx3NAiBGho8yabtRRlnqGoMxaLSBl_ZgGlf8Vkbbt-SQK-6l5jQ.jpg');padding-top:59.53125%"></i>
+  <div class="link_preview_title" dir="auto">El presidente Arce irá a la posesión de Lula en Brasil; Evo también fue invitado</div>
+  <div class="link_preview_description" dir="auto">El mandatario boliviano, Luis Arce, asistirá el 1 de enero a la posesión de Luiz Inacio “Lula” da Silva como</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54152"><time datetime="2022-12-24T11:54:30+00:00" class="time">11:54</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54153" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNTMsInQiOjE2NzE5MjkxMDAsImgiOiJlMzVmZTQ2ZWZjZmE5NTZiNDQifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Diputado del ala ‘evista’ plantea investigar al Comandante el Ejército; cree que tiene padrinazgo via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/OgNGMmk" target="_blank" rel="noopener">https://ift.tt/OgNGMmk</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/OgNGMmk">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/KBM6rJGZs3Gs_rooCVjg54G9knXz3EDXErf_OC6o6M3mFSS2DqzXbjqp5CeVrp_hufhdPmgtIisX0axOugIaa0RM6wltGeLlC3ZwiKopv0t5uvYfV8sOWnzL4smbzHEItX1oVNHw1OiFoYFL81ADV6l7JWSSVJPwyyakj1j36YT73LPubnzQKf9tFEqqhRe8GkiwqbjIkU-p5P1DdmKyqPCMbD22RVN9ZWWTf1XWN8vCSrorn-ZD5o0M7t6lVywgtDztWP1Q9AViegyUo4i9DkyTCIad6CU8oXAT_pMHlYhj_ldlEMbPDVV3Dk2oDvw5UnHNRIFk1Gv8efnCTWUROg.jpg');padding-top:60.15625%"></i>
+  <div class="link_preview_title" dir="auto">Diputado del ala ‘evista’ plantea investigar al Comandante el Ejército; cree que tiene padrinazgo</div>
+  <div class="link_preview_description" dir="auto">El diputado del MAS del ala “evista”, Freddy López, planteó este viernes que se investigue al general Juan José Zúñiga,</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54153"><time datetime="2022-12-24T11:54:30+00:00" class="time">11:54</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ahoradigital/54154" data-view="eyJjIjotMTU2MDU1MTgzMywicCI6NTQxNTQsInQiOjE2NzE5MjkxMDAsImgiOiIyNWE4MjJiOGZkNGIyNjE0YTkifQ">
+  <div class="tgme_widget_message_user"><a href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><i class="tgme_widget_message_user_photo bgcolor1" data-content="a"><img src="https://web.archive.org/web/20221225004459im_/https://cdn1.telegram-cdn.org/file/YaTtSEglc5WGs78V4SKDzuT4D3sVy45PI_u2FxTlqiFsUEii4UG2DXmM_FYtyrvzNLKrFAQzgx5EJCnT6MvklnZfpnUeTY95-x8IXTTfvRjySCj9l8hQ-giFxIw37HnpTv5V7-pvW7FDG8JpM6EOyRx6wW2QcFKv6KVUUKWqpZOyuK-WVjNQwYqdzAJf-MdDYLFN-JIddv-7g6EfhcWa9aXAZrubGXzYRtJmPn59R38bpTJoOnhthFDKpb4Cs7tIeld8h9PE6pa3dyxka5NsTYlOnDW_WwOy4z_T_nPCA6eYf1zP9si1kT6Tyc1-41cl4B6wMp57xkX1D0Z9tYG84w.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewbox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital"><span dir="auto">ahoradigital</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Allanan una vivienda en Santa Cruz donde encuentran 15 toneladas de bebidas alcohólicas de contrabando via ahoradigital más información en: <a href="https://web.archive.org/web/20221225004459/https://ift.tt/DBhIsHb" target="_blank" rel="noopener">https://ift.tt/DBhIsHb</a></div>
+<a class="tgme_widget_message_link_preview" href="https://web.archive.org/web/20221225004459/https://ift.tt/DBhIsHb">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">ahoradigital</div>
+  <i class="link_preview_image" style="background-image:url('https://web.archive.org/web/20221225004459im_/https://cdn4.telegram-cdn.org/file/IgV6WnK4AMDc3Opa_pkPS-rw7N2zWmBCteazCBhaKpA_Ywgy4LYzhuyfkX3cMYzx9lxwDHgIEgCZZwUNlCCNp0FlPBZPYIUeRd5kRUYLJJUbidZ4PFF1I3V4jZSJaRbjGTEZR2g1sgdd-j1AoHNo3HH4pj7rwGe6cNzzggjrFAEx7pelHuhWe0TbJj7wokzxzVjA1LlGNUdKFoMee5nDgWW_HRhJxjj7_VV9ZppSC5RPi97rklr70Je0h5MjSQwzWpeL-hXEiZebQ_LyDRQ22lxC3ThB3YtS0hZgct9ChN5wWv6Oyf5RBv-tRAD7boyJ_udBY_ZNrEUFWBZpBcqT7Q.jpg');padding-top:71.40625%"></i>
+  <div class="link_preview_title" dir="auto">Allanan una vivienda en Santa Cruz donde encuentran 15 toneladas de bebidas alcohólicas de contrabando</div>
+  <div class="link_preview_description" dir="auto">En una vivienda, ubicada en la zona Sur de la ciudad de Santa Cruz de la Sierra, se encontró más</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://web.archive.org/web/20221225004459/https://t.me/ahoradigital/54154"><time datetime="2022-12-24T11:54:34+00:00" class="time">11:54</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_centered js-messages_more_wrap"><a href="/web/20221225004459/https://t.me/s/ahoradigital?after=54154" class="tme_messages_more js-messages_more" data-after="54154"></a></div>
+    </section>
+  </div>
+</main>
+    <script src="//web.archive.org/web/20221225004459js_/https://telegram.org/js/jquery.min.js"></script>
+    <script src="//web.archive.org/web/20221225004459js_/https://telegram.org/js/jquery-ui.min.js"></script>
+    <script src="//web.archive.org/web/20221225004459js_/https://telegram.org/js/tgwallpaper.min.js?3"></script>
+<script src="//web.archive.org/web/20221225004459js_/https://telegram.org/js/tgsticker.js?29"></script>
+
+    <script src="//web.archive.org/web/20221225004459js_/https://telegram.org/js/widget-frame.js?60"></script>
+    <script src="//web.archive.org/web/20221225004459js_/https://telegram.org/js/telegram-web.js?14"></script>
+    <script>TWeb.init({scrollToPost:'ahoradigital/54144'});
+</script>
+    
+  </body>
+</html>
+<!-- page generated in 99.9ms -->
+<!--
+     FILE ARCHIVED ON 00:44:59 Dec 25, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:17:26 Jan 22, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 359.656
+  exclusion.robots: 0.305
+  exclusion.robots.policy: 0.292
+  cdx.remote: 0.096
+  esindex: 0.011
+  LoadShardBlock: 314.365 (3)
+  PetaboxLoader3.resolve: 256.016 (3)
+  PetaboxLoader3.datanode: 66.407 (5)
+  CDXLines.iter: 15.643 (3)
+  load_resource: 69.868
+  loaddict: 3.8
+-->
