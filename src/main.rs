@@ -76,8 +76,7 @@ fn warctest() {
         is_normal_dict, is_comp_dict
     );
 
-    // the dictionary has to be decompressed separately if it turns out to be compressed
-    let dictbuf = if is_comp_dict {
+    let decompress_dict = |dictbuf: Vec<u8>| {
         println!(
             "decompressing dict.. compressed dict len = {}",
             dictbuf.len()
@@ -99,6 +98,11 @@ fn warctest() {
             decompdictbuf[0], decompdictbuf[1], decompdictbuf[2], decompdictbuf[3]
         ); // should [93, 42, 77, 24], magic header
         decompdictbuf
+    };
+
+    // the dictionary has to be decompressed separately if it turns out to be compressed
+    let dictbuf = if is_comp_dict {
+        decompress_dict(dictbuf)
     } else {
         dictbuf
     };
