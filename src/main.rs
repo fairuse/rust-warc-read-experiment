@@ -67,10 +67,9 @@ fn warctest() {
     r.read_exact(&mut dictbuf)
         .expect("could not read dictionary");
 
-    let is_normal_dict =
-        dictbuf[0] == 0x37 && dictbuf[1] == 0xA4 && dictbuf[2] == 0x30 && dictbuf[3] == 0xEC;
-    let is_comp_dict =
-        dictbuf[0] == 0x28 && dictbuf[1] == 0xB5 && dictbuf[2] == 0x2F && dictbuf[3] == 0xFD;
+    let header = &dictbuf[..4];
+    let is_normal_dict = header == [0x37, 0xA4, 0x30, 0xEC];
+    let is_comp_dict = header == [0x28, 0xB5, 0x2F, 0xFD];
 
     println!(
         "normal dict: {}, comp dict: {}",
