@@ -78,27 +78,31 @@ fn warctest() {
     );
 
     // the dictionary has to be decompressed separately if it turns out to be compressed
-    if is_comp_dict {
+    let dictbuf = if is_comp_dict {
         println!(
             "decompressing dict.. compressed dict len = {}",
             dictbuf.len()
         );
         // let's decompress the dictionary first.
-        let dictreader = Cursor::new(dictbuf.clone());
-        dictbuf.clear();
+        let dictreader = Cursor::new(dictbuf);
         let mut dictdecomp = zstd::Decoder::new(dictreader).expect("unable to decompress dict");
+        let mut decompdictbuf = vec![0u8; dictsize as usize];
+        decompdictbuf.clear(); // should not be needed because read_exact replaces, right?
         dictdecomp
-            .read_to_end(&mut dictbuf)
+            .read_to_end(&mut decompdictbuf)
             .expect("failed to write decompressed dictionary");
         println!(
             "decompressing dict.. decompressed dict len = {}",
-            dictbuf.len()
+            decompdictbuf.len()
         );
         println!(
             "dictmagic={:#x} {:#x} {:#x} {:#x}",
-            dictbuf[0], dictbuf[1], dictbuf[2], dictbuf[3]
+            decompdictbuf[0], decompdictbuf[1], decompdictbuf[2], decompdictbuf[3]
         ); // should [93, 42, 77, 24], magic header
-    }
+        decompdictbuf
+    } else {
+        dictbuf
+    };
 
     // now that we have the decompression dictionary, we can rewind the file and feed it to a fresh
     // decompressor with the dictionary we just built.
