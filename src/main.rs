@@ -67,38 +67,45 @@ fn warctest() {
     r.read_exact(&mut dictbuf)
         .expect("could not read dictionary");
 
-    let is_normal_dict =
-        dictbuf[0] == 0x37 && dictbuf[1] == 0xA4 && dictbuf[2] == 0x30 && dictbuf[3] == 0xEC;
-    let is_comp_dict =
-        dictbuf[0] == 0x28 && dictbuf[1] == 0xB5 && dictbuf[2] == 0x2F && dictbuf[3] == 0xFD;
+    let header = &dictbuf[..4];
+    let is_normal_dict = header == [0x37, 0xA4, 0x30, 0xEC];
+    let is_comp_dict = header == [0x28, 0xB5, 0x2F, 0xFD];
 
     println!(
         "normal dict: {}, comp dict: {}",
         is_normal_dict, is_comp_dict
     );
 
-    // the dictionary has to be decompressed separately if it turns out to be compressed
-    if is_comp_dict {
+    let decompress_dict = |dictbuf: Vec<u8>| {
         println!(
             "decompressing dict.. compressed dict len = {}",
             dictbuf.len()
         );
         // let's decompress the dictionary first.
-        let dictreader = Cursor::new(dictbuf.clone());
-        dictbuf.clear();
+        let dictreader = Cursor::new(dictbuf);
         let mut dictdecomp = zstd::Decoder::new(dictreader).expect("unable to decompress dict");
+        let mut decompdictbuf = vec![0u8; dictsize as usize];
+        decompdictbuf.clear(); // should not be needed because read_exact replaces, right?
         dictdecomp
-            .read_to_end(&mut dictbuf)
+            .read_to_end(&mut decompdictbuf)
             .expect("failed to write decompressed dictionary");
         println!(
             "decompressing dict.. decompressed dict len = {}",
-            dictbuf.len()
+            decompdictbuf.len()
         );
         println!(
             "dictmagic={:#x} {:#x} {:#x} {:#x}",
-            dictbuf[0], dictbuf[1], dictbuf[2], dictbuf[3]
+            decompdictbuf[0], decompdictbuf[1], decompdictbuf[2], decompdictbuf[3]
         ); // should [93, 42, 77, 24], magic header
-    }
+        decompdictbuf
+    };
+
+    // the dictionary has to be decompressed separately if it turns out to be compressed
+    let dictbuf = if is_comp_dict {
+        decompress_dict(dictbuf)
+    } else {
+        dictbuf
+    };
 
     // now that we have the decompression dictionary, we can rewind the file and feed it to a fresh
     // decompressor with the dictionary we just built.
