@@ -2,26 +2,26 @@
 extern crate tantivy;
 
 /* this is very rough code. It is an experiment to see if we can stream a warc archive, as stored by
-   archive.org ArchiveTeam, which contains web requests and responses. We want to decode all the responses,
-   run the relevant responses through an HTML parser, use XPath to extract relevant fields, and index these
-   into a full text index with tantivi.
- */
+  archive.org ArchiveTeam, which contains web requests and responses. We want to decode all the responses,
+  run the relevant responses through an HTML parser, use XPath to extract relevant fields, and index these
+  into a full text index with tantivi.
+*/
 
+use scraper::{Html, Selector};
 use std::fs;
 use std::io::prelude::*;
 use std::io::{BufReader, Cursor};
+use std::thread;
 use tantivy::collector::TopDocs;
 use tantivy::directory::MmapDirectory;
 use tantivy::query::QueryParser;
 use tantivy::schema::*;
 use tantivy::Index;
 use tantivy::ReloadPolicy;
-use warc::WarcReader;
 use warc::WarcHeader;
-use std::thread;
+use warc::WarcReader;
 
 const STACK_SIZE: usize = 4 * 1024 * 1024;
-
 
 fn main() {
     // Spawn thread with explicit stack size
@@ -35,7 +35,6 @@ fn main() {
 }
 
 fn warctest() {
-
     // This is a test of reading archiveteam's zstd-dict-compressed files, with an embedded dictionary
     // Zstd supports 'external' dictionaries, but that would mean having to keep another file around
     // however, what archiveteam does is they put the contents of the 'external' dictionary within
@@ -46,7 +45,8 @@ fn warctest() {
     // given dictionary and then uses the zstd decompressor as usual.
 
     // from https://archive.org/download/archiveteam_telegram_20230121154949_3cc83c94/telegram_20230121154949_3cc83c94.1658771457.megawarc.warc.zst
-    let f = fs::File::open("telegram_20230121154949_3cc83c94.1658771457.megawarc.warc.zst").expect("file not found");
+    let f = fs::File::open("telegram_20230121154949_3cc83c94.1658771457.megawarc.warc.zst")
+        .expect("file not found");
     let mut r = BufReader::new(f);
 
     let mut buf = [0u8; 4];
@@ -64,7 +64,8 @@ fn warctest() {
     println!("dict size = {}", dictsize);
 
     let mut dictbuf = vec![0u8; dictsize as usize];
-    r.read_exact(&mut dictbuf).expect("could not read dictionary");
+    r.read_exact(&mut dictbuf)
+        .expect("could not read dictionary");
 
     let is_normal_dict =
         dictbuf[0] == 0x37 && dictbuf[1] == 0xA4 && dictbuf[2] == 0x30 && dictbuf[3] == 0xEC;
@@ -117,14 +118,18 @@ fn warctest() {
             _ => {
                 // println!("hdr: {}", hdr);
                 let buffered = record.into_buffered().expect("read of record ok");
-                println!(
-                    "Found record. Data length:\n{}",
-                    String::from_utf8_lossy(buffered.body()).len()
-                );
-            }
-            // _ => {
-            //     println!("huh, no header?");
-            // }
+                let doc = Html::parse_document(&String::from_utf8_lossy(buffered.body()));
+                let selector = Selector::parse("title").unwrap();
+                for element in doc.select(&selector) {
+                    println!("title {}", element.inner_html());
+                }
+                //                println!(
+                //                    "Found record. Data length:\n{}",
+                //                    String::from_utf8_lossy(buffered.body()).len()
+                //                );
+            } // _ => {
+              //     println!("huh, no header?");
+              // }
         }
     }
 
@@ -161,11 +166,11 @@ fn warctest() {
     //         break
     //     }
     // }
-// }
+    // }
 
-// let mut jsonbuf = vec![0u8; 100000];
-// let err = br.read_exact(&mut jsonbuf).expect("could not read data");
-// println!("got it: {} bytes read from stream", jsonbuf.len())
+    // let mut jsonbuf = vec![0u8; 100000];
+    // let err = br.read_exact(&mut jsonbuf).expect("could not read data");
+    // println!("got it: {} bytes read from stream", jsonbuf.len())
 }
 
 fn oldmain() -> tantivy::Result<()> {
