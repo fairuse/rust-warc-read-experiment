@@ -121,6 +121,8 @@ fn warctest() {
     while let Some(record) = stream_iter.next_item() {
         let record = record.expect("read of headers ok");
         count += 1;
+        let contentType = record.header(WarcHeader::ContentType).unwrap();
+        println!("content type: {}", contentType);
         match record.header(WarcHeader::TargetURI).map(|s| s.to_string()) {
             _ => {
                 // println!("hdr: {}", hdr);
@@ -129,6 +131,11 @@ fn warctest() {
                 let selector = Selector::parse("title").unwrap();
                 for element in doc.select(&selector) {
                     println!("title {}", element.inner_html());
+//                    println!("doc: {}", &String::from_utf8_lossy(buffered.body()));
+                }
+                let sel = Selector::parse(".tgme_channel_info_header_username a").unwrap();
+                for element in doc.select(&sel) {
+                    println!("username {:?}", element.inner_html());
                 }
                 //                println!(
                 //                    "Found record. Data length:\n{}",
