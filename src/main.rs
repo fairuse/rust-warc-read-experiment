@@ -79,6 +79,15 @@ fn warctest() {
                 for element in doc.select(&sel) {
                     println!("username {:?}", element.inner_html());
                 }
+
+                // @TODO implement logic from https://github.com/JustAnotherArchivist/snscrape/blob/master/snscrape/modules/telegram.py
+                // ok here goes some magic for telegram.
+                // first look for a 		posts = soup.find_all('div', attrs = {'class': 'tgme_widget_message', 'data-post': True})
+                // then within that look for 			dateDiv = post.find('div', class_ = 'tgme_widget_message_footer').find('a', class_ = 'tgme_widget_message_date')
+                // parse that with 			date = datetime.datetime.strptime(dateDiv.find('time', datetime = True)['datetime'].replace('-', '', 2).replace(':', ''), '%Y%m%dT%H%M%S%z')
+                // and iterate over these 			if (message := post.find('div', class_ = 'tgme_widget_message_text')):
+                // those should have a content that is your message
+
                 //                println!(
                 //                    "Found record. Data length:\n{}",
                 //                    String::from_utf8_lossy(buffered.body()).len()
