@@ -8,6 +8,7 @@ extern crate tantivy;
 */
 
 use scraper::{Html, Selector};
+use std::borrow::{Borrow, BorrowMut};
 use std::fs;
 use std::fs::File;
 use std::io::prelude::*;
@@ -72,7 +73,7 @@ fn warctest() {
                 let selector = Selector::parse("title").unwrap();
                 for element in doc.select(&selector) {
                     println!("title {}", element.inner_html());
-//                    println!("doc: {}", &String::from_utf8_lossy(buffered.body()));
+                    //                    println!("doc: {}", &String::from_utf8_lossy(buffered.body()));
                 }
                 let sel = Selector::parse(".tgme_channel_info_header_username a").unwrap();
                 for element in doc.select(&sel) {
@@ -128,7 +129,7 @@ fn warctest() {
     // println!("got it: {} bytes read from stream", jsonbuf.len())
 }
 
-fn decompress_reader_zstddict<'r>(mut r: BufReader<File>) -> Decoder<&'r BufReader<File>> {
+fn decompress_reader_zstddict<'r>(mut r: BufReader<File>) -> Decoder<'r, BufReader<File>> {
     let mut buf = [0u8; 4];
     r.read_exact(&mut buf).expect("unable to read file header");
     // let i = i32::from_le_bytes(buf); // .try_into().unwrap() );
