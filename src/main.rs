@@ -18,7 +18,21 @@ use tantivy::Index;
 use tantivy::ReloadPolicy;
 use warc::WarcReader;
 use warc::WarcHeader;
+use std::thread;
 
+const STACK_SIZE: usize = 4 * 1024 * 1024;
+
+
+fn main() {
+    // Spawn thread with explicit stack size
+    let child = thread::Builder::new()
+        .stack_size(STACK_SIZE)
+        .spawn(warctest)
+        .unwrap();
+
+    // Wait for thread to join
+    child.join().unwrap();
+}
 
 fn warctest() {
 
@@ -154,7 +168,7 @@ fn warctest() {
 // println!("got it: {} bytes read from stream", jsonbuf.len())
 }
 
-fn main() -> tantivy::Result<()> {
+fn oldmain() -> tantivy::Result<()> {
     warctest();
 
     println!("Hello, world!");
