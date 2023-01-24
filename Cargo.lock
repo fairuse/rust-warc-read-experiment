@@ -777,6 +777,8 @@ name = "mysearch"
 version = "0.1.0"
 dependencies = [
  "scraper",
+ "serde",
+ "serde_json",
  "tantivy",
  "warc",
  "zstd",

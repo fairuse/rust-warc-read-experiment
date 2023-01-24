@@ -24,6 +24,8 @@ use tantivy::ReloadPolicy;
 use warc::WarcHeader;
 use warc::WarcReader;
 use zstd::Decoder;
+use serde::{Serialize, Deserialize};
+// use serde_json;
 
 const STACK_SIZE: usize = 4 * 1024 * 1024;
 
@@ -37,6 +39,12 @@ fn main() {
     // Wait for thread to join
     child.join().unwrap();
 }
+
+#[derive(Serialize, Deserialize, Debug)]
+struct Message {
+    username: String,
+    content: String
+} // still needs some kind of ID
 
 fn warctest() {
     // This is a test of reading archiveteam's zstd-dict-compressed files, with an embedded dictionary
@@ -88,7 +96,12 @@ fn warctest() {
                 for element in doc.select(&posEl) {
                     let datapost = element.value().attr("data-post").unwrap_or_default();
                     for contentelement in element.select(&textsel) {
-                        println!("{} contents: {:?}", datapost, contentelement.text().collect::<String>());
+                        let msg: Message = Message{
+                            content: contentelement.text().collect::<String>(),
+                            username: datapost.to_string()
+                        };
+                        println!("{}", serde_json::to_string(&msg).unwrap());
+                        // println!("{} contents: {:?}", datapost, contentelement.text().collect::<String>());
                     }
                 }
                 // first look for a 		posts = soup.find_all('div', attrs = {'class': 'tgme_widget_message', 'data-post': True})
@@ -107,7 +120,7 @@ fn warctest() {
         }
     }
 
-    println!("Total records: {}\nSkipped records: {}", count, skipped);
+    eprintln!("Total records: {}\nSkipped records: {}", count, skipped);
     //
     // let mut strm = wr.stream_records();
     // for n in 0..10 {
@@ -217,6 +230,7 @@ fn decompress_reader_zstddict<'r>(mut r: BufReader<File>) -> Decoder<'r, BufRead
 
 fn oldmain() -> tantivy::Result<()> {
     warctest();
+    return Ok(());
 
     println!("Hello, world!");
     let index_path = "./index";
