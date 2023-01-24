@@ -7,6 +7,7 @@ extern crate tantivy;
   into a full text index with tantivi.
 */
 
+//use itertools::Itertools;
 use scraper::{Html, Selector};
 use std::borrow::{Borrow, BorrowMut};
 use std::fs;
@@ -64,7 +65,7 @@ fn warctest() {
         let record = record.expect("read of headers ok");
         count += 1;
         let contentType = record.header(WarcHeader::ContentType).unwrap();
-        println!("content type: {}", contentType);
+        // println!("content type: {}", contentType);
         match record.header(WarcHeader::TargetURI).map(|s| s.to_string()) {
             _ => {
                 // println!("hdr: {}", hdr);
@@ -72,16 +73,24 @@ fn warctest() {
                 let doc = Html::parse_document(&String::from_utf8_lossy(buffered.body()));
                 let selector = Selector::parse("title").unwrap();
                 for element in doc.select(&selector) {
-                    println!("title {}", element.inner_html());
+                    // println!("title {}", element.inner_html());
                     //                    println!("doc: {}", &String::from_utf8_lossy(buffered.body()));
                 }
-                let sel = Selector::parse(".tgme_channel_info_header_username a").unwrap();
-                for element in doc.select(&sel) {
-                    println!("username {:?}", element.inner_html());
-                }
+                // let sel = Selector::parse(".tgme_channel_info_header_username").unwrap();
+                // for element in doc.select(&sel) {
+                //     println!("username {:?}", element.inner_html());
+                // }
 
                 // @TODO implement logic from https://github.com/JustAnotherArchivist/snscrape/blob/master/snscrape/modules/telegram.py
                 // ok here goes some magic for telegram.
+                let posEl = Selector::parse(".tgme_widget_message").unwrap();
+                let textsel = Selector::parse(".tgme_widget_message_text").unwrap();
+                for element in doc.select(&posEl) {
+                    let datapost = element.value().attr("data-post").unwrap_or_default();
+                    for contentelement in element.select(&textsel) {
+                        println!("{} contents: {:?}", datapost, contentelement.text().collect::<String>());
+                    }
+                }
                 // first look for a 		posts = soup.find_all('div', attrs = {'class': 'tgme_widget_message', 'data-post': True})
                 // then within that look for 			dateDiv = post.find('div', class_ = 'tgme_widget_message_footer').find('a', class_ = 'tgme_widget_message_date')
                 // parse that with 			date = datetime.datetime.strptime(dateDiv.find('time', datetime = True)['datetime'].replace('-', '', 2).replace(':', ''), '%Y%m%dT%H%M%S%z')
